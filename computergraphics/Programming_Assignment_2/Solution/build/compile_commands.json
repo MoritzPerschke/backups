@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/moritz/computergraphics/Programming_Assignment_2/Solution/build",
+  "command": "/usr/bin/g++ -I/home/moritz/computergraphics/Programming_Assignment_2/Solution/external/tinyobjloader -g -Wall -ggdb -O0 -o CMakeFiles/PathTracing.dir/PathTracing.cpp.o -c /home/moritz/computergraphics/Programming_Assignment_2/Solution/PathTracing.cpp",
+  "file": "/home/moritz/computergraphics/Programming_Assignment_2/Solution/PathTracing.cpp"
+},
+{
+  "directory": "/home/moritz/computergraphics/Programming_Assignment_2/Solution/build",
+  "command": "/usr/bin/g++ -g -o external/tinyobjloader/CMakeFiles/tinyobjloader.dir/tiny_obj_loader.cc.o -c /home/moritz/computergraphics/Programming_Assignment_2/Solution/external/tinyobjloader/tiny_obj_loader.cc",
+  "file": "/home/moritz/computergraphics/Programming_Assignment_2/Solution/external/tinyobjloader/tiny_obj_loader.cc"
+}
+]

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/moritz/Uni/vu_advanced_computer_graphics/Programming_Assignment_1/Solution/build",
+  "command": "/usr/bin/g++ -g \"-Wall -fopenmp\" -ggdb -O0 -o CMakeFiles/Radiosity.dir/Radiosity.cpp.o -c /home/moritz/Uni/vu_advanced_computer_graphics/Programming_Assignment_1/Solution/Radiosity.cpp",
+  "file": "/home/moritz/Uni/vu_advanced_computer_graphics/Programming_Assignment_1/Solution/Radiosity.cpp"
+}
+]

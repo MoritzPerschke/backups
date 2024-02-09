@@ -1,0 +1,4 @@
+/home/moritz/Documents/computergraphics/03_Final_Project/Solution/results/bin/CMakeFiles/PathTracing.dir
+/home/moritz/Documents/computergraphics/03_Final_Project/Solution/results/bin/CMakeFiles/Image_diff.dir
+/home/moritz/Documents/computergraphics/03_Final_Project/Solution/results/bin/CMakeFiles/edit_cache.dir
+/home/moritz/Documents/computergraphics/03_Final_Project/Solution/results/bin/CMakeFiles/rebuild_cache.dir

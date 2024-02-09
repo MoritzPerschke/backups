@@ -1,0 +1,1 @@
+We chose the topic "Implement other ‘noise’ generators and compare".

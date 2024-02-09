@@ -1,0 +1,3 @@
+/home/moritz/Uni/vu_advanced_computer_graphics/Programming_Assignment_1/Solution/build/CMakeFiles/Radiosity.dir
+/home/moritz/Uni/vu_advanced_computer_graphics/Programming_Assignment_1/Solution/build/CMakeFiles/edit_cache.dir
+/home/moritz/Uni/vu_advanced_computer_graphics/Programming_Assignment_1/Solution/build/CMakeFiles/rebuild_cache.dir

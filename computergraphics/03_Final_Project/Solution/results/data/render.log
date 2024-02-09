@@ -1,0 +1,3 @@
+
+==/usr/bin/time -f "{\"wall\": %e}" ./bin/PathTracing 1 0:
+==/usr/bin/time -f "{\"wall\": %e}" ./bin/PathTracing 6 0:

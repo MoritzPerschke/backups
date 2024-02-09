@@ -1,0 +1,15 @@
+/home/moritz/computergraphics/02_Programming_Assignment_2/Solution/build/CMakeFiles/PathTracing.dir
+/home/moritz/computergraphics/02_Programming_Assignment_2/Solution/build/CMakeFiles/edit_cache.dir
+/home/moritz/computergraphics/02_Programming_Assignment_2/Solution/build/CMakeFiles/rebuild_cache.dir
+/home/moritz/computergraphics/02_Programming_Assignment_2/Solution/build/CMakeFiles/list_install_components.dir
+/home/moritz/computergraphics/02_Programming_Assignment_2/Solution/build/CMakeFiles/install.dir
+/home/moritz/computergraphics/02_Programming_Assignment_2/Solution/build/CMakeFiles/install/local.dir
+/home/moritz/computergraphics/02_Programming_Assignment_2/Solution/build/CMakeFiles/install/strip.dir
+/home/moritz/computergraphics/02_Programming_Assignment_2/Solution/build/external/tinyobjloader/CMakeFiles/tinyobjloader.dir
+/home/moritz/computergraphics/02_Programming_Assignment_2/Solution/build/external/tinyobjloader/CMakeFiles/uninstall.dir
+/home/moritz/computergraphics/02_Programming_Assignment_2/Solution/build/external/tinyobjloader/CMakeFiles/edit_cache.dir
+/home/moritz/computergraphics/02_Programming_Assignment_2/Solution/build/external/tinyobjloader/CMakeFiles/rebuild_cache.dir
+/home/moritz/computergraphics/02_Programming_Assignment_2/Solution/build/external/tinyobjloader/CMakeFiles/list_install_components.dir
+/home/moritz/computergraphics/02_Programming_Assignment_2/Solution/build/external/tinyobjloader/CMakeFiles/install.dir
+/home/moritz/computergraphics/02_Programming_Assignment_2/Solution/build/external/tinyobjloader/CMakeFiles/install/local.dir
+/home/moritz/computergraphics/02_Programming_Assignment_2/Solution/build/external/tinyobjloader/CMakeFiles/install/strip.dir

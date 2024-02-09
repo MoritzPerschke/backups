@@ -1,0 +1,35 @@
+My E-Mail:
+----------
+Guten Tag Herr Ritter,
+
+bzgl. des Projektes in AdvCG hätten wir Fragen zum Thema "Implement other ?noise? generators and compare":
+1) Was ist damit gemeint: "Add a window region for rendering"?
+2) Könnten Sie uns dieses Projektthema allgemein näher erläutern?
+
+Vielen Dank und freundliche Grüße,
+Thomas M.
+
+
+Marcel Ritter's Reply:
+----------------------
+Hallo Thomas,
+
+Zu 1)
+
+Damit meinte ich, dass es zum Entwickeln/Testen angenehm ist, dass man nur einen Bild-ausschnitt rendert; einen viereckigen Teilbereich.
+
+Zu 2)
+
+DIe Idee ist einfach den Random Generator auszutauschen mit anderen Varianten:
+
+Man kann mit Halton-2-3 oder Halton 4-5 und Stratified Noise starten. Wenn ihr gut vorran kommt, koennt ihr noch eine Blue Noise Variante (zb Poisson DIsk oder Wang Tiles) und vllt auch echte Zufallszahlen aufnehmen (wenn an solche drankommt). Fuer Blue Noise koennt ihr dann einfach libraries zur Generierung einsetzen. (https://github.com/thinks/poisson-disk-sampling, https://github.com/dcoeurjo/LowDiscBlueNoise, https://github.com/prideout/par/blob/master/par_bluenoise.h, ...)
+
+Zum Vergleichen wuerde ich dann einmal ein Bild in hoher Qualitaet mit sehr hoher Sampleanzahl rechnen und dann Differenzbilder mit den verschiedenen Varianten machen und zb die signal to noise ratio (oder ein anderes Fehlermass) berechnen.
+
+Beim Vergleich waeren dann Plots des Fehlermasses und der Runtime-Performance ueber Sampleanzahl und Methode interessant.
+
+
+Das habe ich selber nie so genau im Detail angeschaut und waer interessant wie und wie gross die Unterschiede sind.
+
+VG,
+    Marcel

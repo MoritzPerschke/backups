@@ -1,0 +1,15 @@
+{
+    "red" : {
+        "on" : true,
+        "sat" : 254,
+        "bri" : 254,
+        "hue" : 1
+    },
+
+    "bright" : {
+        "on": true,
+		"bri": 254,
+		"hue": 8417,
+		"sat": 140
+     }
+}

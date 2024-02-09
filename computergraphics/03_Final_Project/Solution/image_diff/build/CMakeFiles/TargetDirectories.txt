@@ -1,0 +1,3 @@
+/home/moritz/computergraphics/03_Final_Project/Solution/image_diff/build/CMakeFiles/image_diff.dir
+/home/moritz/computergraphics/03_Final_Project/Solution/image_diff/build/CMakeFiles/edit_cache.dir
+/home/moritz/computergraphics/03_Final_Project/Solution/image_diff/build/CMakeFiles/rebuild_cache.dir
